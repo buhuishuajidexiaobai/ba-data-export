@@ -1,3 +1,5 @@
+> ⚠️ **本仓库已合并至 [buhuishuajidexiaobai/ba-scanner](https://github.com/buhuishuajidexiaobai/ba-scanner)**（三引擎整合 + 图形启动器，单一 Release 下载）。本仓库转入维护模式不再更新，历史版本 Release 仍可下载。本目录以下内容为合并时的最终快照。
+
 # BA 数据导出工具 (ba-data-export)
 
 《蔚蓝档案》Steam 国际服（港澳台服）账号数据**外部只读导出工具**。直接读取游戏客户端进程内已加载的结构化数据，一键导出道具、装备、专属武器与角色养成数据——替代逐页截图 OCR：精确、完整、秒级完成。
